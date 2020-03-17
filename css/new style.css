@@ -1,8 +1,9 @@
-a.nav {
+a.nav:hover {
     background-color: blue;
     color: whitesmoke;
     font-size: 15px;
+    text-decoration: none;
 }
-div.nav {
-    color: blue;
+nav.nav {
+    background-color: blue;
 }
