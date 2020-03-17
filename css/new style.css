@@ -3,3 +3,6 @@ a.nav {
     color: whitesmoke;
     font-size: 15px;
 }
+div.nav {
+    color: blue;
+}
