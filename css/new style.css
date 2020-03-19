@@ -1,8 +1,12 @@
+a {
+    text-decoration: none;
+}
+a.nav:link {
+    color: rgb(31, 31, 31);
+}
 a.nav:hover {
-    background-color: blue;
     color: whitesmoke;
     font-size: 15px;
-    text-decoration: none;
 }
 nav.nav {
     background-color: blue;
