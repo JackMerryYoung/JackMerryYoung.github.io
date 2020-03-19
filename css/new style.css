@@ -2,11 +2,11 @@ a {
     text-decoration: none;
 }
 a.nav:link,a.nav:visited,a.nav:active {
-    font-size: 12px;
+    font-size: 20px;
 }
 a.nav:hover {
     color: whitesmoke;
-    font-size: 15px;
+    font-size: 22px;
 }
 nav.nav {
     background-color: blue;
