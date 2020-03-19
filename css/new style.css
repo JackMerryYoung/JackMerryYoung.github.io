@@ -1,8 +1,8 @@
 a {
     text-decoration: none;
 }
-a.nav:link {
-    color: rgb(31, 31, 31);
+a.nav:link,a.nav:visited,a.nav:active {
+    font-size: 12px;
 }
 a.nav:hover {
     color: whitesmoke;
