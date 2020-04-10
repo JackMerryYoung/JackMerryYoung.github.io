@@ -2,17 +2,18 @@ a {
     text-decoration: none;
 }
 a.nav:link,a.nav:visited,a.nav:active {
-    font-size: 20px;
+    color: black;
+    font-size: 22px;
+    border-width: 25px;
 }
 a.nav:hover {
     color: whitesmoke;
-    font-size: 21px;
 }
 nav.nav {
-    background-color: blue;
+    background-color: orange;
     position: fixed;
     width: 100%;
-    height: 26px;
+    height: 30px;
     top: 0;
     left: 0;
 }
