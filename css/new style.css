@@ -21,7 +21,11 @@ nav.nav {
 }
 /*img*/
 img.avatar {
-    border-radius: 10px;
+    border-radius: 50%;
+}
+/*div*/
+div.avatar {
+    border-width: 6px;
     border-color: black;
-    border-width: 5px;
+    border-radius: 50%;
 }
