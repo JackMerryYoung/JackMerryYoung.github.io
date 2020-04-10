@@ -23,19 +23,19 @@ nav.nav {
 img.avatar {
 	border-radius: 50%;
 }
-img.info {
+img.info_icon {
 	width: 40px;
 	height: 40px;
 /*div*/
-div.info {
+div.info_panel {
 	text-align: center;
 	background-color: #000000ab;
 	opacity: 0.6;
-	display: inline-block;
+	display: none;
 }
 /*li*/
-li.info {
+li {
 	text-align: center;
-	float: left;
+	display: inline-block;
 	list-style: none;
 }
