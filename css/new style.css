@@ -8,10 +8,11 @@ a.nav:link,a.nav:visited,a.nav:active {
 }
 a.nav:hover {
     color: whitesmoke;
+    background-color: orange;
 }
 /*nav*/
 nav.nav {
-    background-color: orange;
+    background-color: yellow;
     position: fixed;
     width: 100%;
     height: 30px;
