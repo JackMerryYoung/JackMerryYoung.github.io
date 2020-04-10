@@ -9,8 +9,8 @@ a.nav:link,a.nav:visited,a.nav:active {
 a.nav:hover {
     background-color: orange;
 }
-/*div*/
-div.nav {
+/*nav*/
+nav.nav {
     background-color: #ffbe00;
     position: fixed;
     width: 100%;
