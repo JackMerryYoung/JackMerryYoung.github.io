@@ -25,37 +25,6 @@ img.avatar {
 	border-color: black;
 	border-width: 5px;
 }
-body,div{
-	padding: 0;
-	margin: 0;
-}
-/*a*/
-a {
-    text-decoration: none;
-}
-a.nav:link,a.nav:visited,a.nav:active {
-    color: whitesmoke;
-    font-size: 22px;
-}
-a.nav:hover {
-    background-color: orange;
-}
-/*div*/
-div.nav {
-    background-color: #ffbe00;
-    position: fixed;
-    width: 100%;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border-radius: 5px;
-}
-/*img*/
-img.avatar {
-    border-radius: 10px;
-	border-color: black;
-	border-width: 5px;
-}
 /*li*/
 li.nav {
 	list-style: none;
@@ -63,10 +32,6 @@ li.nav {
 /*ul*/
 ul.nav {
 	list-style: none;
-	position: fixed;
 	width: 100%;
 	height: 30px;
-	top: 0;
-	left: 0;
-	border-radius: 5px;
 }
