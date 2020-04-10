@@ -22,17 +22,6 @@ nav.nav {
 /*img*/
 img.avatar {
     border-radius: 10px;
-	border-color: black;
-	border-width: 5px;
-	text-align: center;
-}
-/*li*/
-li.nav {
-	list-style: none;
-}
-/*ul*/
-ul.nav {
-	list-style: none;
-	width: 100%;
-	height: 30px;
+    border-color: black;
+    border-width: 5px;
 }
