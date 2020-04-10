@@ -25,3 +25,7 @@ img.avatar {
 	border-color: black;
 	border-width: 5px;
 }
+/*list*/
+li,ul {
+	list-style: none;
+}
