@@ -24,8 +24,6 @@ img.avatar {
     border-radius: 50%;
 }
 /*div*/
-div.avatar {
-    border-width: 6px;
-    border-color: black;
-    border-radius: 50%;
+div.head {
+    text-align: center;
 }
