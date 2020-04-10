@@ -1,14 +1,15 @@
+/*a*/
 a {
     text-decoration: none;
 }
 a.nav:link,a.nav:visited,a.nav:active {
     color: black;
     font-size: 22px;
-    border-width: 25px;
 }
 a.nav:hover {
     color: whitesmoke;
 }
+/*nav*/
 nav.nav {
     background-color: orange;
     position: fixed;
@@ -16,4 +17,8 @@ nav.nav {
     height: 30px;
     top: 0;
     left: 0;
+}
+/*div*/
+div.nav {
+    border-width: 5px;
 }
