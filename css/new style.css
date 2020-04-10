@@ -35,9 +35,9 @@ div.info {
 	background-color: #000000ab;
 	opacity: 0.6;
 	display: inline-block;
-	list-style: none;
 }
 /*li*/
 li.info {
 	float: left;
+	list-style: none;
 }
